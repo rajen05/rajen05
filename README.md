@@ -51,6 +51,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/r/276DC3" height="60" alt="r logo"  />
 </div>
+[Pacman Graph](https://raw.githubusercontent.com/<your-username>/<repo-name>/output/pacman-contribution-graph.svg)
 
 ###
 
