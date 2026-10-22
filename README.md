@@ -13,8 +13,8 @@
 💡 Deeply interested in exploring how data and AI can solve real-world problems  
 🤖 Currently diving deeper into Machine Learning, AI models, and Data Analytics  
 
-🎓 Diploma in ICT (Data Informatics Specialism), Year 2  
-🏫 Asia Pacific University of Technology & Innovation (APU)  
+🎓 Bachelors in Computing Science, Year 2  
+🏫 Heriot-watt Univerisity  
 
 🔍 <b>What Drives Me</b>  
 - Transforming raw data into meaningful insights  
