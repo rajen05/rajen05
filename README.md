@@ -7,13 +7,7 @@
   <a href="https://discord.com/users/849998175036768316"><img src="./assets/contact-discord.svg" width="24%" alt="Discord" /></a>
 </p>
 
-### Activity
-
-<img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" alt="Profile details" />
-
-<img src="./profile-summary-card-output/github_dark/3-stats.svg" width="49%" alt="GitHub stats" /> <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" alt="Most used languages in commits" />
-
-<img src="https://streak-stats.demolab.com?user=rajen05&background=000000&border_radius=10&hide_border=true&ring=E5161D&fire=E5161D&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=A9A9A9&dates=6E6E6E&stroke=333333" width="100%" alt="Contribution streak" />
+<img src="./assets/activity.svg" width="100%" alt="My GitHub activity: contributions, streaks, repos and languages" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajen05/rajen05/output/pacman-contribution-graph-dark.svg">
